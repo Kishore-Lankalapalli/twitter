@@ -1,0 +1,5 @@
+
+//user follows api 
+
+method:"GET",
+url:"http://localhost:3000/user/tweets/feed/"
